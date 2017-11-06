@@ -1,6 +1,6 @@
 ## DEV JECRC Community Guidelines
 
-Join the chat at ![DEVJECRC](www.gitter.im/DEVJECRC/general)
+[![Join the DEVJECRC Chat at](https://img.shields.io/badge/gitter-join%20chat%20%E2%86%92-brightgreen.svg)](www.gitter.im/DEVJECRC/general)
 
 DEV JECRC Community is made by some students of JECRC University to spread the idea and establish an environment of programming and coding in University by learning and helping by contrubuting to our repos.
 
